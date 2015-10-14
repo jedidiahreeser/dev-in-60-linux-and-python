@@ -1,0 +1,3 @@
+Book: Introduction to Linux Environment and Python
+Author: Jedidiah Reeser
+Description: This book introduces the advantages of developing with the Linux platform, Python language, and development tools. Great tips to help you get started in minutes. Includes a short tutorial that will help you exercise your new dev skills in the Linux environment!
